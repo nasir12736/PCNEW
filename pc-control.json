@@ -1,4 +1,7 @@
 {
+  "active": true,
+  "password_required": true,
+
   "users": {
 
     "uid_120001": { "name": "TraderKing5k", "password": "TraderKing5k" },
