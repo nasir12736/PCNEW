@@ -1,5 +1,5 @@
 {
-  "active": false,
+  "active": true,
   "password_required": false,
 
   "users": {
